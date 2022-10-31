@@ -1,0 +1,10 @@
+sys
+schedule
+requests
+os
+time
+pika
+ast
+dotenv
+django
+rest_framework
